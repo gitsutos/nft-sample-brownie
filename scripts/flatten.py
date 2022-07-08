@@ -3,6 +3,7 @@ from brownie import AdvancedCollectible, accounts, network, config, interface
 import json
 
 
+
 def main():
     flatten()
 
